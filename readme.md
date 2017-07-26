@@ -1,3 +1,15 @@
+index.html
+-
+
+
+script.js
+- added an 's' to showGlobal so it would properly call the function
+
+I used the error to determine the line in the js and html file that was producing the error. From there I noticed it said "showGlobal" was not defined, I read through the functions and saw that one was named showGlobal and reading through the log I could see it was being called and working earlier in the startMeUp function.
+
+I changed the name, saved the file, and refreshed the page to confirm the error had been resolved.
+
+
 Dev Tools Example
 =================
 
