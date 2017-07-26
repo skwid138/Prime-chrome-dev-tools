@@ -1,7 +1,3 @@
-index.html
--
-
-
 script.js
 - added an 's' to showGlobal so it would properly call the function
 
